@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.navpad{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.links{
+  text-decoration: none;
+}
+
+#menubar{
+  transition: 0.4s;
+}
+
+.logo{
+  font-size: 35px;
+}
+
+.logosmall{
+  font-size: 25px;
+  color: #1287A5 !important;
+}
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
